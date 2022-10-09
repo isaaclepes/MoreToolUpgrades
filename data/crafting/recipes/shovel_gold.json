@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:wooden_shovel"
+        "item": "minecraft:stone_shovel"
     },
     "addition": {
         "item": "minecraft:gold_ingot"
