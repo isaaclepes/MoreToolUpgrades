@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:smithing",
+    "type": "minecraft:smithing_transform",
     "base": {
         "item": "minecraft:golden_hoe"
     },
@@ -8,5 +8,8 @@
     },
     "result": {
         "item": "minecraft:iron_hoe"
+    },
+    "template": {
+        "item": "minecraft:lapis_lazuli"
     }
 }
